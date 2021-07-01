@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sn4577
+- 👋 Hi, I’m Saptarshi Nath @sn4577
 - 👀 I’m interested in: Artificial Intelligence, Machine Learning, Python, Software Engineering, Cryptography, Cybersecurity.
 - 🌱 I’m currently learning: Computer Vision, Natural Langauge Processing, Machine Learning, Artificial Intelligence, Due to begin an MSc program in Artificial Intelligence
 - 💞️ I’m looking to collaborate on: AI/ML projects to learn things or Software project development.
